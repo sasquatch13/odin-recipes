@@ -1,0 +1,19 @@
+body {
+    color: rgb(79, 136, 166);
+    background-color: rgb(82, 176, 172);
+}
+
+.img {
+    height: auto;
+    width: 300px;
+
+}
+
+p {
+    text-indent: 50px;
+    color: rgb(40, 39, 118);
+}
+
+h1 {
+    color: black;
+}
