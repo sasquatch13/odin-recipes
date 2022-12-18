@@ -1,34 +1,23 @@
 * {
-    border: 2px solid black;
-    border-style: double;
-}
-.recipe {
-    display: flex;
-    display: inline-flex;
-    margin: 10px;
-    padding: 10;
-    background-color: whitesmoke;
-}
-.recipe div {
-    flex: 1;
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
+    
 }
 
 body {
     color: rgb(79, 136, 166);
-    background-color: wheat;
+    background-color: white;
     font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: black;
 }
 
 .img {
     height: auto;
     width: 300px;
     margin: 50px;
-    
-
 }
+
 ul {
     padding: 10px;
 }
@@ -38,6 +27,7 @@ li {
 
 .new {
     display: flex;
+    border: 2px double black;
 }
 
 .new > div {
@@ -48,15 +38,12 @@ li {
 p {
     text-indent: 50px;
     color: rgb(40, 39, 118);
-    background-color: wheat;
-    border: 5px solid red;
+    background-color: white;
+    border: 5px solid slategray;
     padding: 10px;
     height: auto;
     width: auto;
-    margin: 60px;
+    margin: 10px;
     box-sizing: border-box;
 }
 
-h1 {
-    color: black;
-}
